@@ -1,0 +1,1 @@
+Esta ruta recibe un reporte enviado por un usuario mediante el método POST. Toma el mensaje enviado y responde confirmando que el reporte fue recibido. En una aplicación comunitaria podría servir para enviar quejas, alertas o reportes de problemas del barrio de forma organizada.
